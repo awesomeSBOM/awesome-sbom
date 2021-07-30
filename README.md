@@ -57,6 +57,7 @@ The concept of a BOM is well-established in traditional manufacturing as part of
 ## Videos
 
 - [Mentorship Session: Generating Software Bill Of Materials](https://www.youtube.com/watch?v=EVnQ4Riecy8)
+- [Software Bill of Materials: How to generate an SBOM from container images using Syft](https://www.youtube.com/watch?v=9oj3BC3vOtc)
 
 ## Slides
 
