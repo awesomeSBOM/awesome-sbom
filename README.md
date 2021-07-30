@@ -22,18 +22,42 @@ The concept of a BOM is well-established in traditional manufacturing as part of
 
 ## Official projects
 
+### Articles and Blogs
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials) - Official Wikipedia Page
+- [NTIA](https://www.ntia.gov/SBOM) - Official National Telecommunications and Information Administration Page
+- [What is an SBOM?](https://www.linuxfoundation.org/blog/what-is-an-sbom/) - The Linux Foundation Article
+
 ### Repositories
 
-### Docs
+- [CycloneDX Specification](https://github.com/CycloneDX/specification)
+- [https://github.com/spdx/spdx-sbom-generator](https://github.com/spdx/spdx-sbom-generator)
 
-### Blogs
+## SPDX
+
+- [The Software Package Data Exchange® (SPDX®)](https://spdx.dev/)
+- [ISO/IEC 5962 - SPDX® Specification](https://www.iso.org/standard/81870.html)
+- [ISO/IEC 5230:2020 - OpenChain Specification](https://www.iso.org/standard/81039.html)
+- [SPDX Spec](https://spdx.github.io/spdx-spec/)
+- [SPDX: It’s Already in Use for Global Software Bill of Materials (SBOM)](https://www.linuxfoundation.org/blog/spdx-its-already-in-use-for-global-software-bill-of-materials-sbom-and-supply-chain-security/)
 
 ## Community Repositories
 
-## Blogs and Articles
+## Articles and Blogs
+
+- [Software Bill Of Materials: Formats, Use Cases, and Tools](https://fossa.com/blog/software-bill-of-materials-formats-use-cases-tools/)
+- [Software Bill of Materials Required by 2021 Cyber Security Executive Order](https://fossa.com/blog/software-bill-of-materials-formats-use-cases-tools/)
+- [The world needs a software bill of materials](https://news.ycombinator.com/item?id=26529619)
+- [What is a software bill of materials?](https://www.synopsys.com/blogs/software-security/software-bill-of-materials-bom/)
+- [Easily and Quickly Build an Accurate Open Source Inventory](https://www.revenera.com/software-composition-analysis/business-solutions/bill-of-materials.html)
+- [Create a Cybersecurity Bill of Materials](https://www.promenadesoftware.com/blog/create-a-software-bill-of-materials)
 
 ## Videos
 
+- [Mentorship Session: Generating Software Bill Of Materials](https://www.youtube.com/watch?v=EVnQ4Riecy8)
+
 ## Slides
+
+- [Software Bill of Materials Presentation](https://csrc.nist.gov/CSRC/media/Projects/cyber-supply-chain-risk-management/documents/SSCA/Spring_2019/8MayAM2.3_Software_Bill_of_Materials_Robert_Martin_05_08_19_clean.pdf)
 
 ## Podcasts
