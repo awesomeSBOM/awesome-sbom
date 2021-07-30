@@ -54,6 +54,7 @@ The concept of a BOM is well-established in traditional manufacturing as part of
 - [What is a software bill of materials?](https://www.synopsys.com/blogs/software-security/software-bill-of-materials-bom/)
 - [Easily and Quickly Build an Accurate Open Source Inventory](https://www.revenera.com/software-composition-analysis/business-solutions/bill-of-materials.html)
 - [Create a Cybersecurity Bill of Materials](https://www.promenadesoftware.com/blog/create-a-software-bill-of-materials)
+- [What is an SBOM, and why should you Care??](https://boxboat.com/2021/05/12/what-is-sbom-and-why-should-you-care/)
 
 ## Videos
 
