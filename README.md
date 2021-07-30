@@ -31,10 +31,10 @@ The concept of a BOM is well-established in traditional manufacturing as part of
 ### Repositories
 
 - [CycloneDX Specification](https://github.com/CycloneDX/specification)
-- [https://github.com/spdx/spdx-sbom-generator](https://github.com/spdx/spdx-sbom-generator)
-- [https://github.com/tern-tools/tern](https://github.com/tern-tools/tern)
-- [https://github.com/anchore/syft](https://github.com/anchore/syft)
-- [https://github.com/dlorenc/sbom-oci](https://github.com/dlorenc/sbom-oci)
+- [spdx-sbom-generator](https://github.com/spdx/spdx-sbom-generator)
+- [tern-tools/tern](https://github.com/tern-tools/tern)
+- [anchore/syft](https://github.com/anchore/syft)
+- [dlorenc/sbom-oci](https://github.com/dlorenc/sbom-oci)
 
 ## SPDX
 
