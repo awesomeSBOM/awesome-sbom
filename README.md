@@ -56,6 +56,7 @@ The concept of a BOM is well-established in traditional manufacturing as part of
 - [Easily and Quickly Build an Accurate Open Source Inventory](https://www.revenera.com/software-composition-analysis/business-solutions/bill-of-materials.html)
 - [Create a Cybersecurity Bill of Materials](https://www.promenadesoftware.com/blog/create-a-software-bill-of-materials)
 - [What is an SBOM, and why should you Care??](https://boxboat.com/2021/05/12/what-is-sbom-and-why-should-you-care/)
+- [Are you ready with your SBOM ? Think again !](https://nadgowdas.github.io/blog/2021/trust-sbom/)
 
 ## Videos
 
