@@ -19,12 +19,6 @@ The concept of a BOM is well-established in traditional manufacturing as part of
 - 📹 [Videos](#videos)
 - 📑 [Slides](#slides)
 - 🎤 [Podcasts](#podcasts)
-- 🧪 [Interactive Learning](#interactive-learning)
-- 🧰 [IDE and Editor Integrations](#ide-and-editor-integrations)
-- 📡 [Support and Community](#support-and-community)
-     - 💊 [Develop and Contribute](#develop-and-contribute)
-     - 📆 [Learn and Connect](#learn-and-connect)
-
 
 ## Official projects
 
