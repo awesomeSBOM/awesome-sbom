@@ -35,6 +35,7 @@ The concept of a BOM is well-established in traditional manufacturing as part of
 - [tern-tools/tern](https://github.com/tern-tools/tern)
 - [anchore/syft](https://github.com/anchore/syft)
 - [dlorenc/sbom-oci](https://github.com/dlorenc/sbom-oci)
+- [https://github.com/sigstore/cosign/blob/main/specs/SBOM_SPEC.md](https://github.com/sigstore/cosign/blob/main/specs/SBOM_SPEC.md)
 
 ## SPDX
 
