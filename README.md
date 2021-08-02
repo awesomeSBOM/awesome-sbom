@@ -57,6 +57,8 @@ The concept of a BOM is well-established in traditional manufacturing as part of
 - [Create a Cybersecurity Bill of Materials](https://www.promenadesoftware.com/blog/create-a-software-bill-of-materials)
 - [What is an SBOM, and why should you Care??](https://boxboat.com/2021/05/12/what-is-sbom-and-why-should-you-care/)
 - [Are you ready with your SBOM ? Think again !](https://nadgowdas.github.io/blog/2021/trust-sbom/)
+- [Nisha Kumar and Allan Friedman - RSAC DevOps connect keynote](https://blogs.vmware.com/opensource/2021/06/15/software-bill-of-materials-and-modern-app-development-devops-connect-rsac-2021/)
+- [Rose Judge on using Tern to generate a SBoM for containers](https://blogs.vmware.com/opensource/2020/08/29/rose-judge-on-tern-container-bill-of-materials/)
 
 ## Videos
 
