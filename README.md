@@ -36,6 +36,7 @@ The concept of a BOM is well-established in traditional manufacturing as part of
 - [anchore/syft](https://github.com/anchore/syft)
 - [dlorenc/sbom-oci](https://github.com/dlorenc/sbom-oci)
 - [https://github.com/sigstore/cosign/blob/main/specs/SBOM_SPEC.md](https://github.com/sigstore/cosign/blob/main/specs/SBOM_SPEC.md)
+- [SwiftBOM - generate SBOMs](https://github.com/CERTCC/SBOM/tree/master/SwiftBOM)
 
 ## SPDX
 
@@ -64,6 +65,7 @@ The concept of a BOM is well-established in traditional manufacturing as part of
 
 - [Mentorship Session: Generating Software Bill Of Materials](https://www.youtube.com/watch?v=EVnQ4Riecy8)
 - [Software Bill of Materials: How to generate an SBOM from container images using Syft](https://www.youtube.com/watch?v=9oj3BC3vOtc)
+- [SwiftBOM - generate SBOMs for PoC efforts and demos](https://youtube.com/playlist?list=PLKr8MJRsuoPHGqfcoj8auu7zax8oLRPsH)
 
 ## Slides
 
