@@ -59,6 +59,11 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Are you ready with your SBOM ? Think again !](https://nadgowdas.github.io/blog/2021/trust-sbom/)
 - [Nisha Kumar and Allan Friedman - RSAC DevOps connect keynote](https://blogs.vmware.com/opensource/2021/06/15/software-bill-of-materials-and-modern-app-development-devops-connect-rsac-2021/)
 - [Rose Judge on using Tern to generate a SBoM for containers](https://blogs.vmware.com/opensource/2020/08/29/rose-judge-on-tern-container-bill-of-materials/)
+- [Creating a Software Supply Chain Landscape](https://zt.dev/posts/supply-chain-content-created/)
+- [Analysis of a spdx-sbom-generator generated SBOM](https://zt.dev/posts/analysis-spdx-sbom-generator/)
+- [Creating an SBOM for a golang app using spdx-sbom-generator](https://zt.dev/posts/creating-spdx-sbom/)
+- [Analysis of a cyclonedx-gomod generated SBOM](https://zt.dev/posts/analysis-cyclonedx-gomod-sbom/)
+- [Creating an SBOM for a golang app using cyclonedx-gomod](https://zt.dev/posts/creating-cyclonedx-gomod-sbom/)
 
 ## Videos
 
