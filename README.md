@@ -34,7 +34,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [tern-tools/tern](https://github.com/tern-tools/tern)
 - [anchore/syft](https://github.com/anchore/syft)
 - [dlorenc/sbom-oci](https://github.com/dlorenc/sbom-oci)
-- [https://github.com/sigstore/cosign/blob/main/specs/SBOM_SPEC.md](https://github.com/sigstore/cosign/blob/main/specs/SBOM_SPEC.md)
+- [Cosign SBOM Spec](https://github.com/sigstore/cosign/blob/main/specs/SBOM_SPEC.md)
 - [SwiftBOM - generate SBOMs](https://github.com/CERTCC/SBOM/tree/master/SwiftBOM)
 
 ## SPDX
