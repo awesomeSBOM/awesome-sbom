@@ -65,6 +65,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Creating an SBOM for a golang app using spdx-sbom-generator](https://zt.dev/posts/creating-spdx-sbom/)
 - [Analysis of a cyclonedx-gomod generated SBOM](https://zt.dev/posts/analysis-cyclonedx-gomod-sbom/)
 - [Creating an SBOM for a golang app using cyclonedx-gomod](https://zt.dev/posts/creating-cyclonedx-gomod-sbom/)
+- [What an SBOM Can Do for You](https://chainguard.dev/posts/2022-01-13-what-an-sbom-can-do-for-you)
 
 ## Videos
 
