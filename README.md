@@ -30,6 +30,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 ### Repositories
 
 - [CycloneDX Specification](https://github.com/CycloneDX/specification)
+- [CycloneDX/cyclonedx-maven-plugin](https://github.com/CycloneDX/cyclonedx-maven-plugin)
 - [spdx-sbom-generator](https://github.com/spdx/spdx-sbom-generator)
 - [tern-tools/tern](https://github.com/tern-tools/tern)
 - [anchore/syft](https://github.com/anchore/syft)
