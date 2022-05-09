@@ -37,6 +37,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Cosign SBOM Spec](https://github.com/sigstore/cosign/blob/main/specs/SBOM_SPEC.md)
 - [SwiftBOM - generate SBOMs](https://github.com/CERTCC/SBOM/tree/master/SwiftBOM)
 - [Kubernetes SBOM Tool](https://sigs.k8s.io/bom)
+- [CycloneDX BOM Examples](https://github.com/CycloneDX/bom-examples)
 
 ## SPDX
 
