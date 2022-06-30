@@ -39,6 +39,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [SwiftBOM - generate SBOMs](https://github.com/CERTCC/SBOM/tree/master/SwiftBOM)
 - [Kubernetes SBOM Tool](https://sigs.k8s.io/bom)
 - [CycloneDX BOM Examples](https://github.com/CycloneDX/bom-examples)
+- [Aqua Trivy](https://github.com/aquasecurity/trivy)
 
 ## SPDX
 
