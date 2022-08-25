@@ -41,6 +41,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Kubernetes SBOM Tool](https://sigs.k8s.io/bom)
 - [CycloneDX BOM Examples](https://github.com/CycloneDX/bom-examples)
 - [Aqua Trivy](https://github.com/aquasecurity/trivy)
+- [bomber](https://github.com/devops-kung-fu/bomber)
 
 ## SPDX
 
@@ -72,6 +73,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Analysis of a cyclonedx-gomod generated SBOM](https://zt.dev/posts/analysis-cyclonedx-gomod-sbom/)
 - [Creating an SBOM for a golang app using cyclonedx-gomod](https://zt.dev/posts/creating-cyclonedx-gomod-sbom/)
 - [What an SBOM Can Do for You](https://chainguard.dev/posts/2022-01-13-what-an-sbom-can-do-for-you)
+- [BOM 101 – All the questions you were afraid to ask Software Bill of Materials](https://sysdig.com/blog/sbom-101-software-bill-of-materials/)
 
 ## Videos
 
