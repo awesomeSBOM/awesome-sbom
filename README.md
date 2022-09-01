@@ -55,6 +55,10 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 
 - [SBOM-Operator for Kubernetes](https://github.com/ckotzbauer/sbom-operator)
 
+### Security Tools
+
+- [bomber](https://github.com/devops-kung-fu/bomber) - bomber is an application that scans SBoMs for security vulnerabilities.
+
 ## Articles and Blogs
 
 - [Software Bill Of Materials: Formats, Use Cases, and Tools](https://fossa.com/blog/software-bill-of-materials-formats-use-cases-tools/)
