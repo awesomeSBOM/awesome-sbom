@@ -42,6 +42,9 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [CycloneDX BOM Examples](https://github.com/CycloneDX/bom-examples)
 - [Aqua Trivy](https://github.com/aquasecurity/trivy)
 - [bomber](https://github.com/devops-kung-fu/bomber)
+  - [Snyk provider](https://github.com/devops-kung-fu/bomber/tree/main/providers/snyk)
+- Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) and [CLI](https://docs.snyk.io/snyk-cli)
+- [Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)
 
 ## SPDX
 
@@ -78,6 +81,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Creating an SBOM for a golang app using cyclonedx-gomod](https://zt.dev/posts/creating-cyclonedx-gomod-sbom/)
 - [What an SBOM Can Do for You](https://chainguard.dev/posts/2022-01-13-what-an-sbom-can-do-for-you)
 - [BOM 101 – All the questions you were afraid to ask Software Bill of Materials](https://sysdig.com/blog/sbom-101-software-bill-of-materials/)
+- [How to create SBOMs in Java with Maven and Gradle](https://snyk.io/blog/create-sboms-java-maven-gradle/) - Snyk blog
 
 ## Videos
 
