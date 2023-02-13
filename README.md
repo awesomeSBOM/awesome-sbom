@@ -45,6 +45,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
   - [Snyk provider](https://github.com/devops-kung-fu/bomber/tree/main/providers/snyk)
 - Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) and [CLI](https://docs.snyk.io/snyk-cli)
 - [Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)
+- [Interlynk SBOM Quality Score](https://github.com/interlynk-io/sbomqs)
 
 ## SPDX
 
