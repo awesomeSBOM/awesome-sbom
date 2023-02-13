@@ -90,6 +90,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Software Bill of Materials: How to generate an SBOM from container images using Syft](https://www.youtube.com/watch?v=9oj3BC3vOtc)
 - [SwiftBOM - generate SBOMs for PoC efforts and demos](https://youtube.com/playlist?list=PLKr8MJRsuoPHGqfcoj8auu7zax8oLRPsH)
 - [Kubernetes Atlanta Meetup - Nov 2021 - SBOMs Container Signing and Verification, Intro to Gatekeeper](https://www.youtube.com/watch?v=PuTJ176djsc&t=22s)
+- [FOSDEM 2023 - The 7 key ingredients of a great SBOM](https://fosdem.org/2023/schedule/event/sbom_key_ingredients/)
 
 ## Slides
 
