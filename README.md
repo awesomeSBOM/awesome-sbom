@@ -83,6 +83,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [What an SBOM Can Do for You](https://chainguard.dev/posts/2022-01-13-what-an-sbom-can-do-for-you)
 - [BOM 101 – All the questions you were afraid to ask Software Bill of Materials](https://sysdig.com/blog/sbom-101-software-bill-of-materials/)
 - [How to create SBOMs in Java with Maven and Gradle](https://snyk.io/blog/create-sboms-java-maven-gradle/) - Snyk blog
+- [Comparing SBOM Standards: SPDX vs. CycloneDX](https://blog.sonatype.com/comparing-sbom-standards-spdx-vs.-cyclonedx-vs.-swid)
 
 ## Videos
 
