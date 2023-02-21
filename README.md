@@ -27,6 +27,21 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [NTIA](https://www.ntia.gov/SBOM) - Official National Telecommunications and Information Administration Page
 - [What is an SBOM?](https://www.linuxfoundation.org/blog/what-is-an-sbom/) - The Linux Foundation Article
 
+### Tools (and [classification](https://ntia.gov/sites/default/files/publications/ntia_sbom_tooling_taxonomy-2021mar30_0.pdf))
+|Tool|Produce|Consume|Transform|
+|----|-------|-------|---------|
+|[spdx-sbom-generator](https://github.com/spdx/spdx-sbom-generator)|:heavy_check_mark:|||
+|[tern-tools/tern](https://github.com/tern-tools/tern)|:heavy_check_mark:|||
+|[anchore/syft](https://github.com/anchore/syft)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[microsoft/sbom-tool](https://github.com/microsoft/sbom-tool)|:heavy_check_mark:|||
+|[SwiftBOM - generate SBOMs](https://github.com/CERTCC/SBOM/tree/master/SwiftBOM)|:heavy_check_mark:|||
+|[Kubernetes SBOM Tool](https://sigs.k8s.io/bom)|:heavy_check_mark:|||
+|[Aqua Trivy](https://github.com/aquasecurity/trivy)|:heavy_check_mark:|:heavy_check_mark:|
+|[bomber](https://github.com/devops-kung-fu/bomber)||:heavy_check_mark:||
+|Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) and [CLI](https://docs.snyk.io/snyk-cli)|:heavy_check_mark:|||
+|[Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)||:heavy_check_mark:||
+|[Interlynk SBOM Quality Score](https://github.com/interlynk-io/sbomqs)||:heavy_check_mark:||
+
 ### Repositories
 
 - [CycloneDX Specification](https://github.com/CycloneDX/specification)
