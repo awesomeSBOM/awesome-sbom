@@ -99,6 +99,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [BOM 101 – All the questions you were afraid to ask Software Bill of Materials](https://sysdig.com/blog/sbom-101-software-bill-of-materials/)
 - [How to create SBOMs in Java with Maven and Gradle](https://snyk.io/blog/create-sboms-java-maven-gradle/) - Snyk blog
 - [Comparing SBOM Standards: SPDX vs. CycloneDX](https://blog.sonatype.com/comparing-sbom-standards-spdx-vs.-cyclonedx-vs.-swid)
+- [Top 10 Things You Should Know About Using SBOM to Secure Industrial IoT Devices - Red Alert Labs]()
 
 ## Videos
 
