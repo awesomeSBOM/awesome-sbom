@@ -14,7 +14,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
     - 🗒️ [Docs](#docs)
     - 📰 [Blogs](#blogs-and-articles)
 - 🐾 [Community Repositories](#community-repositories)
-- 🗃️ [Blogs and Articles](#blogs-and-articles)
+- 🗃️ [Blogs and Articles](#articles-and-blogs-1)
 - 📹 [Videos](#videos)
 - 📑 [Slides](#slides)
 - 🎤 [Podcasts](#podcasts)
@@ -99,7 +99,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [BOM 101 – All the questions you were afraid to ask Software Bill of Materials](https://sysdig.com/blog/sbom-101-software-bill-of-materials/)
 - [How to create SBOMs in Java with Maven and Gradle](https://snyk.io/blog/create-sboms-java-maven-gradle/) - Snyk blog
 - [Comparing SBOM Standards: SPDX vs. CycloneDX](https://blog.sonatype.com/comparing-sbom-standards-spdx-vs.-cyclonedx-vs.-swid)
-- [Top 10 Things You Should Know About Using SBOM to Secure Industrial IoT Devices - Red Alert Labs]()
+- [Top 10 Things You Should Know About Using SBOM to Secure Industrial IoT Devices - Red Alert Labs](https://www.redalertlabs.com/blog/top-10-things-you-should-know-about-using-sbom-to-secure-industrial-iot-devices)
 
 ## Videos
 
