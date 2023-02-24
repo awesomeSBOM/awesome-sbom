@@ -28,19 +28,19 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [What is an SBOM?](https://www.linuxfoundation.org/blog/what-is-an-sbom/) - The Linux Foundation Article
 
 ### Tools (and [classification](https://ntia.gov/sites/default/files/publications/ntia_sbom_tooling_taxonomy-2021mar30_0.pdf))
-|Tool|Produce|Consume|Transform|
-|----|-------|-------|---------|
-|[spdx-sbom-generator](https://github.com/spdx/spdx-sbom-generator)|:heavy_check_mark:|||
-|[tern-tools/tern](https://github.com/tern-tools/tern)|:heavy_check_mark:|||
-|[anchore/syft](https://github.com/anchore/syft)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[microsoft/sbom-tool](https://github.com/microsoft/sbom-tool)|:heavy_check_mark:|||
-|[SwiftBOM - generate SBOMs](https://github.com/CERTCC/SBOM/tree/master/SwiftBOM)|:heavy_check_mark:|||
-|[Kubernetes SBOM Tool](https://sigs.k8s.io/bom)|:heavy_check_mark:|||
-|[Aqua Trivy](https://github.com/aquasecurity/trivy)|:heavy_check_mark:|:heavy_check_mark:|
-|[bomber](https://github.com/devops-kung-fu/bomber)||:heavy_check_mark:||
-|Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) and [CLI](https://docs.snyk.io/snyk-cli)|:heavy_check_mark:|||
-|[Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)||:heavy_check_mark:||
-|[Interlynk SBOM Quality Score](https://github.com/interlynk-io/sbomqs)||:heavy_check_mark:||
+|Tool|Build SBOM|Analyze SBOM|View SBOM|Transform SBOM|Integrate with Other Tools|
+|----|----------|------------|---------|--------------|--------------------------|
+|[spdx-sbom-generator](https://github.com/spdx/spdx-sbom-generator)|SPDX|||||
+|[tern-tools/tern](https://github.com/tern-tools/tern)|CycloneDX,SPDX|||||
+|[anchore/syft](https://github.com/anchore/syft)|CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX||
+|[microsoft/sbom-tool](https://github.com/microsoft/sbom-tool)|SPDX|||||||
+|[SwiftBOM - generate SBOMs](https://github.com/CERTCC/SBOM/tree/master/SwiftBOM)|CycloneDX,SPDX,SWID|||||
+|[Kubernetes SBOM Tool](https://sigs.k8s.io/bom)|SPDX|||||
+|[Aqua Trivy](https://github.com/aquasecurity/trivy)|CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX|||
+|[bomber](https://github.com/devops-kung-fu/bomber)||CycloneDX,SPDX|CycloneDX,SPDX||||
+|Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) and [CLI](https://docs.snyk.io/snyk-cli)|CycloneDX,SPDX|||
+|[Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)||CycloneDX,SPDX|||||
+|[Interlynk SBOM Quality Score](https://github.com/interlynk-io/sbomqs)||CycloneDX,SPDX|CycloneDX,SPDX||CycloneDX,SPDX|
 
 ### Repositories
 
