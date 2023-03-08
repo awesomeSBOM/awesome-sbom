@@ -28,19 +28,28 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [What is an SBOM?](https://www.linuxfoundation.org/blog/what-is-an-sbom/) - The Linux Foundation Article
 
 ### Tools (and [classification](https://ntia.gov/sites/default/files/publications/ntia_sbom_tooling_taxonomy-2021mar30_0.pdf))
-|Tool|Build SBOM|Analyze SBOM|View SBOM|Transform SBOM|Integrate with Other Tools|
-|----|----------|------------|---------|--------------|--------------------------|
-|[spdx-sbom-generator](https://github.com/spdx/spdx-sbom-generator)|SPDX|||||
-|[tern-tools/tern](https://github.com/tern-tools/tern)|CycloneDX,SPDX|||||
-|[anchore/syft](https://github.com/anchore/syft)|CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX||
-|[microsoft/sbom-tool](https://github.com/microsoft/sbom-tool)|SPDX|||||||
-|[SwiftBOM - generate SBOMs](https://github.com/CERTCC/SBOM/tree/master/SwiftBOM)|CycloneDX,SPDX,SWID|||||
-|[Kubernetes SBOM Tool](https://sigs.k8s.io/bom)|SPDX|||||
-|[Aqua Trivy](https://github.com/aquasecurity/trivy)|CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX|||
-|[bomber](https://github.com/devops-kung-fu/bomber)||CycloneDX,SPDX|CycloneDX,SPDX||||
-|Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) and [CLI](https://docs.snyk.io/snyk-cli)|CycloneDX,SPDX|||
-|[Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)||CycloneDX,SPDX|||||
-|[Interlynk SBOM Quality Score](https://github.com/interlynk-io/sbomqs)||CycloneDX,SPDX|CycloneDX,SPDX||CycloneDX,SPDX|
+|Tool| Build SBOM        |Analyze SBOM|View SBOM|Transform SBOM|Integrate with Other Tools|
+|----|-------------------|------------|---------|--------------|--------------------------|
+|[spdx-sbom-generator](https://github.com/spdx/spdx-sbom-generator)| SPDX              |||||
+|[tern-tools/tern](https://github.com/tern-tools/tern)| CycloneDX,SPDX    |||||
+|[anchore/syft](https://github.com/anchore/syft)| CycloneDX,SPDX    |CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX||
+|[microsoft/sbom-tool](https://github.com/microsoft/sbom-tool)| SPDX              |||||||
+|[SwiftBOM - generate SBOMs](https://github.com/CERTCC/SBOM/tree/master/SwiftBOM)| CycloneDX,SPDX,SWID |||||
+|[Kubernetes SBOM Tool](https://sigs.k8s.io/bom)| SPDX              |||||
+|[Aqua Trivy](https://github.com/aquasecurity/trivy)| CycloneDX,SPDX    |CycloneDX,SPDX|CycloneDX,SPDX|||
+|[bomber](https://github.com/devops-kung-fu/bomber)|| CycloneDX,SPDX    |CycloneDX,SPDX||||
+|Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) and [CLI](https://docs.snyk.io/snyk-cli)| CycloneDX,SPDX    |||
+|[Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)|| CycloneDX,SPDX    |||||
+|[Interlynk SBOM Quality Score](https://github.com/interlynk-io/sbomqs)|| CycloneDX,SPDX    |CycloneDX,SPDX||CycloneDX,SPDX|
+|[SBOM4Python](https://pypi.org/project/sbom4python/)| CycloneDX,SPDX    |||||
+|[SBOM4Rust](https://pypi.org/project/sbom4rust/)| CycloneDX,SPDX    |||||
+|[SBOM4Files](https://pypi.org/project/sbom4files/)| CycloneDX,SPDX    |||||
+|[Distro2SBOM](https://pypi.org/project/distro2sbom/)| CycloneDX,SPDX    |||||
+|[SBOMDiff](https://pypi.org/project/sbomdiff/)||CycloneDX,SPDX     |CycloneDX,SPDX||||
+|[SBOM2doc](https://pypi.org/project/sbom2doc/)|| CycloneDX,SPDX    |CycloneDX,SPDX||||
+|[SBOM2dot](https://pypi.org/project/sbom2dot/)|| CycloneDX,SPDX    |CycloneDX,SPDX||||
+|[SBOMAudit](https://pypi.org/project/sbomaudit/)|| CycloneDX,SPDX    |CycloneDX,SPDX||||
+|[SBOM-Manager](https://pypi.org/project/sbom-manager/)|| CycloneDX,SPDX    |CycloneDX,SPDX||||
 
 ### Repositories
 
