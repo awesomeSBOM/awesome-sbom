@@ -18,6 +18,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - 📹 [Videos](#videos)
 - 📑 [Slides](#slides)
 - 🎤 [Podcasts](#podcasts)
+- :chart_with_upwards_trend: [Benchmarks](#benchmarks)
 
 ## Official projects
 
@@ -44,6 +45,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |[CycloneDX Maven Plugin](https://github.com/CycloneDX/cyclonedx-maven-plugin)|CycloneDX|
 |[CycloneDX CLI tool](https://github.com/CycloneDX/cyclonedx-cli)| | |CycloneDX| |CycloneDX| |CycloneDX,SPDX|CycloneDX|
 |Interlynk [SBOM Quality Score](https://github.com/interlynk-io/sbomqs)| |CycloneDX,SPDX| |CycloneDX,SPDX| | | | |CycloneDX,SPDX|
+|Interlynk [SBOM Grep](https://github.com/interlynk-io/sbomgr)| |CycloneDX,SPDX||CycloneDX,SPDX|||||CycloneDX,SPDX|
+|Interlynk [SBOM Find & Pull](https://github.com/interlynk-io/sbomex)| || |CycloneDX,SPDX| | | | |CycloneDX,SPDX|
 |[Kubernetes SBOM Tool](https://sigs.k8s.io/bom)|SPDX|
 |Microsoft [SBOM tool](https://github.com/microsoft/sbom-tool)|SPDX|
 |[Syft](https://github.com/anchore/syft)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
@@ -73,6 +76,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) and [CLI](https://docs.snyk.io/snyk-cli)
 - [Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)
 - [Interlynk SBOM Quality Score](https://github.com/interlynk-io/sbomqs)
+- [Interlynk SBOM Grep](https://github.com/interlynk-io/sbomgr)
+- [Interlynk SBOM Find and Pull](https://github.com/interlynk.io/sbomex)
 
 ## CycloneDX
 
@@ -134,3 +139,10 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 
 ## Podcasts
 _None yet, please contribute!_
+
+
+## Benchmarks
+- [SBOM Benchmark](https://sbombenchmark.dev) Quickly evaluate SBOM for quality, compliance and errors.
+
+
+
