@@ -49,6 +49,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |Interlynk [SBOM Find & Pull](https://github.com/interlynk-io/sbomex)| || |CycloneDX,SPDX| | | | |CycloneDX,SPDX|
 |[Kubernetes SBOM Tool](https://sigs.k8s.io/bom)|SPDX|
 |Microsoft [SBOM tool](https://github.com/microsoft/sbom-tool)|SPDX|
+|[ScanOSS](https://github.com/scanoss/sbom-workbench)|CycloneDX,SPDXLite|CycloneDX,SPDXLite| |CycloneDX,SPDXLite| |CycloneDX,SPDXLite|
 |[Syft](https://github.com/anchore/syft)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
 |Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) & [CLI](https://docs.snyk.io/snyk-cli)|CycloneDX,SPDX|
 |[Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)| |CycloneDX,SPDX|
@@ -78,6 +79,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Interlynk SBOM Quality Score](https://github.com/interlynk-io/sbomqs)
 - [Interlynk SBOM Grep](https://github.com/interlynk-io/sbomgr)
 - [Interlynk SBOM Find and Pull](https://github.com/interlynk.io/sbomex)
+- ScanOSS [Desktop App](https://github.com/scanoss/sbom-workbench) and [CLI](https://github.com/scanoss/scanoss.py)
 
 ## CycloneDX
 
