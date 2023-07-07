@@ -45,6 +45,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |[CycloneDX Maven Plugin](https://github.com/CycloneDX/cyclonedx-maven-plugin)|CycloneDX|
 |[CycloneDX CLI tool](https://github.com/CycloneDX/cyclonedx-cli)| | |CycloneDX| |CycloneDX| |CycloneDX,SPDX|CycloneDX|
 |CycloneDX [cdxgen](https://github.com/CycloneDX/cdxgen)|CycloneDX| | | | | | | |CycloneDX|
+|Interlynk [SBOM Assembler](https://github.com/interlynk-io/sbomasm)|CycloneDX,SPDX| | | | | | |CycloneDX,SPDX|CycloneDX,SPDX|
 |Interlynk [SBOM Quality Score](https://github.com/interlynk-io/sbomqs)| |CycloneDX,SPDX| |CycloneDX,SPDX| | | | |CycloneDX,SPDX|
 |Interlynk [SBOM Grep](https://github.com/interlynk-io/sbomgr)| |CycloneDX,SPDX||CycloneDX,SPDX|||||CycloneDX,SPDX|
 |Interlynk [SBOM Find & Pull](https://github.com/interlynk-io/sbomex)| || |CycloneDX,SPDX| | | | |CycloneDX,SPDX|
@@ -53,6 +54,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |[Syft](https://github.com/anchore/syft)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
 |Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) & [CLI](https://docs.snyk.io/snyk-cli)|CycloneDX,SPDX|
 |[Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)| |CycloneDX,SPDX|
+|[SPDX Maven Plugin](https://github.com/spdx/spdx-maven-plugin)|SPDX|
+|[SPDX Gradle Plugin](https://github.com/spdx/spdx-gradle-plugin)|SPDX|
 |[spdx-sbom-generator](https://github.com/spdx/spdx-sbom-generator)|SPDX|
 |[SwiftBOM](https://github.com/CERTCC/SBOM/tree/master/SwiftBOM)|CycloneDX,SPDX,SWID|
 |[Tern](https://github.com/tern-tools/tern)|CycloneDX,SPDX|
@@ -76,6 +79,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
   - [Snyk provider](https://github.com/devops-kung-fu/bomber/tree/main/providers/snyk)
 - Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) and [CLI](https://docs.snyk.io/snyk-cli)
 - [Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)
+- [Interlynk SBOM Assembler](https://github.com/interlynk-io/sbomasm)
 - [Interlynk SBOM Quality Score](https://github.com/interlynk-io/sbomqs)
 - [Interlynk SBOM Grep](https://github.com/interlynk-io/sbomgr)
 - [Interlynk SBOM Find and Pull](https://github.com/interlynk.io/sbomex)
