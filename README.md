@@ -143,8 +143,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Software Bill of Materials Presentation](https://csrc.nist.gov/CSRC/media/Projects/cyber-supply-chain-risk-management/documents/SSCA/Spring_2019/8MayAM2.3_Software_Bill_of_Materials_Robert_Martin_05_08_19_clean.pdf)
 
 ## Podcasts
-_None yet, please contribute!_
-
+- [DaBOM Podcast](https://dabom.show/)
 
 ## Benchmarks
 - [SBOM Benchmark](https://sbombenchmark.dev) Quickly evaluate SBOM for quality, compliance and errors.
