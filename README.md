@@ -61,6 +61,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |[SwiftBOM](https://github.com/CERTCC/SBOM/tree/master/SwiftBOM)|CycloneDX,SPDX,SWID|
 |[Tern](https://github.com/tern-tools/tern)|CycloneDX,SPDX|
 |[Trivy](https://github.com/aquasecurity/trivy)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
+|[DeepSCA](https://tools.deepbits.com)|CycloneDX|CycloneDX||CyclondeDX||CyclondeDX|||CyclondeDX|
 
 ### Repositories
 
