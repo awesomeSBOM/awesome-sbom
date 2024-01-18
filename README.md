@@ -51,6 +51,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |Interlynk [SBOM Find & Pull](https://github.com/interlynk-io/sbomex)| || |CycloneDX,SPDX| | | | |CycloneDX,SPDX|
 |[Kubernetes SBOM Tool](https://sigs.k8s.io/bom)|SPDX|
 |Microsoft [SBOM tool](https://github.com/microsoft/sbom-tool)|SPDX|
+|OpenSCA [CLI](https://https://github.com/XmirrorSecurity/OpenSCA-cli)|CycloneDX,SPDX,SWID|CycloneDX,SPDX,SWID|
 |OSS Review Toolkit [ORT](https://github.com/oss-review-toolkit/ort)|CycloneDX,SPDX |
 |[Syft](https://github.com/anchore/syft)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
 |Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) & [CLI](https://docs.snyk.io/snyk-cli)|CycloneDX,SPDX|
@@ -85,6 +86,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Interlynk SBOM Quality Score](https://github.com/interlynk-io/sbomqs)
 - [Interlynk SBOM Grep](https://github.com/interlynk-io/sbomgr)
 - [Interlynk SBOM Find and Pull](https://github.com/interlynk.io/sbomex)
+- [OpenSCA-cli](https://github.com/XmirrorSecurity/OpenSCA-cli)
 
 ## CycloneDX
 
