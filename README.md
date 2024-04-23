@@ -45,6 +45,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |[CycloneDX Maven Plugin](https://github.com/CycloneDX/cyclonedx-maven-plugin)|CycloneDX|
 |[CycloneDX CLI tool](https://github.com/CycloneDX/cyclonedx-cli)| | |CycloneDX| |CycloneDX| |CycloneDX,SPDX|CycloneDX|
 |CycloneDX [cdxgen](https://github.com/CycloneDX/cdxgen)|CycloneDX| | | | | | | |CycloneDX|
+|[DeepSCA](https://tools.deepbits.com)|CycloneDX|CycloneDX||CyclondeDX||CyclondeDX|||CyclondeDX|
 |Interlynk [SBOM Assembler](https://github.com/interlynk-io/sbomasm)|CycloneDX,SPDX| | | | | | |CycloneDX,SPDX|CycloneDX,SPDX|
 |Interlynk [SBOM Quality Score](https://github.com/interlynk-io/sbomqs)| |CycloneDX,SPDX| |CycloneDX,SPDX| | | | |CycloneDX,SPDX|
 |Interlynk [SBOM Grep](https://github.com/interlynk-io/sbomgr)| |CycloneDX,SPDX||CycloneDX,SPDX|||||CycloneDX,SPDX|
@@ -61,7 +62,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |[SwiftBOM](https://github.com/CERTCC/SBOM/tree/master/SwiftBOM)|CycloneDX,SPDX,SWID|
 |[Tern](https://github.com/tern-tools/tern)|CycloneDX,SPDX|
 |[Trivy](https://github.com/aquasecurity/trivy)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
-|[DeepSCA](https://tools.deepbits.com)|CycloneDX|CycloneDX||CyclondeDX||CyclondeDX|||CyclondeDX|
 
 ### Repositories
 
