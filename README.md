@@ -62,7 +62,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |[SwiftBOM](https://github.com/CERTCC/SBOM/tree/master/SwiftBOM)|CycloneDX,SPDX,SWID|
 |[Tern](https://github.com/tern-tools/tern)|CycloneDX,SPDX|
 |[Trivy](https://github.com/aquasecurity/trivy)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
-|[DeepSCA](https://tools.deepbits.com)|CycloneDX|CycloneDX||CyclondeDX||CyclondeDX|||CyclondeDX|
+|[DeepSCA](https://tools.deepbits.com)|CycloneDX,SPDX|CycloneDX,SPDX||CyclondeDX,SPDX||CyclondeDX,SPDX|||CyclondeDX,SPDX|
 
 ### Repositories
 
@@ -132,6 +132,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [How to create SBOMs in Java with Maven and Gradle](https://snyk.io/blog/create-sboms-java-maven-gradle/) - Snyk blog
 - [Comparing SBOM Standards: SPDX vs. CycloneDX](https://blog.sonatype.com/comparing-sbom-standards-spdx-vs.-cyclonedx-vs.-swid)
 - [Top 10 Things You Should Know About Using SBOM to Secure Industrial IoT Devices - Red Alert Labs](https://www.redalertlabs.com/blog/top-10-things-you-should-know-about-using-sbom-to-secure-industrial-iot-devices)
+- [In-Depth Review: How Accurate Are Today’s SBOM Tools](https://www.deepbits.com/blog/BreakingDownTheAccuracyOfSBOMGenerators)
 
 ## Videos
 
