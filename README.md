@@ -109,6 +109,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 ### Security Tools
 
 - [bomber](https://github.com/devops-kung-fu/bomber) - bomber is an application that scans SBoMs for security vulnerabilities.
+- [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker) - Check SPDX SBOM for NTIA minimum elements
+- [sbom-scorecard](https://github.com/eBay/sbom-scorecard) - Generate a score for your sbom to understand if it will actually be useful.
 
 ## Articles and Blogs
 
@@ -132,6 +134,14 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [How to create SBOMs in Java with Maven and Gradle](https://snyk.io/blog/create-sboms-java-maven-gradle/) - Snyk blog
 - [Comparing SBOM Standards: SPDX vs. CycloneDX](https://blog.sonatype.com/comparing-sbom-standards-spdx-vs.-cyclonedx-vs.-swid)
 - [Top 10 Things You Should Know About Using SBOM to Secure Industrial IoT Devices - Red Alert Labs](https://www.redalertlabs.com/blog/top-10-things-you-should-know-about-using-sbom-to-secure-industrial-iot-devices)
+- [The Minimum Elements For a Software Bill of Materials (SBOM)](https://www.ntia.gov/sites/default/files/publications/sbom_minimum_elements_report_0.pdf)
+- [What Makes a Good SBOM?](https://edu.chainguard.dev/open-source/sbom/what-makes-a-good-sbom/)
+- [Are SBOMs Any Good? Preliminary Measurement of the Quality of Open Source Project SBOMs](https://www.chainguard.dev/unchained/are-sboms-any-good-preliminary-measurement-of-the-quality-of-open-source-project-sboms)
+- [Software Dark Matter is the Enemy of Software Transparency](https://www.chainguard.dev/unchained/software-dark-matter-is-the-enemy-of-software-transparency)
+- [The Linux Foundation’s Software Bill of Materials (SBOM) and Cybersecurity Readiness Report](https://www.linuxfoundation.org/research/the-state-of-software-bill-of-materials-sbom-and-cybersecurity-readiness)
+- [When will SBOMs finally benefit the federal government’s software supply chain?](https://federalnewsnetwork.com/commentary/2022/10/when-will-sboms-finally-benefit-the-federal-governments-software-supply-chain/)
+- [Are SBOMs good enough for government work?](https://www.chainguard.dev/unchained/are-sboms-good-enough-for-government-work)
+- [Not All SBOMs Are Created Equal](https://www.chainguard.dev/unchained/not-all-sboms-are-created-equal)
 
 ## Videos
 
