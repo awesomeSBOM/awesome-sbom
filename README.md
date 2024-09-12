@@ -64,6 +64,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |[Tern](https://github.com/tern-tools/tern)|CycloneDX,SPDX|
 |[Trivy](https://github.com/aquasecurity/trivy)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
 |[DeepSCA](https://tools.deepbits.com)|CycloneDX|CycloneDX||CyclondeDX||CyclondeDX|||CyclondeDX|
+|[Meta Package Manager](https://github.com/kdeldycke/meta-package-manager#readme)|CycloneDX,SPDX|||||||||
 
 ### Repositories
 
