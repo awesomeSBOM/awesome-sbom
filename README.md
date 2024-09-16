@@ -45,6 +45,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |[CycloneDX Maven Plugin](https://github.com/CycloneDX/cyclonedx-maven-plugin)|CycloneDX|
 |[CycloneDX CLI tool](https://github.com/CycloneDX/cyclonedx-cli)| | |CycloneDX| |CycloneDX| |CycloneDX,SPDX|CycloneDX|
 |CycloneDX [cdxgen](https://github.com/CycloneDX/cdxgen)|CycloneDX| | | | | | | |CycloneDX|
+|Interlynk [SBOM Platform](https://app.interlynk.io)|CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX|
 |Interlynk [SBOM Assembler](https://github.com/interlynk-io/sbomasm)|CycloneDX,SPDX| | | | | | |CycloneDX,SPDX|CycloneDX,SPDX|
 |Interlynk [SBOM Quality Score](https://github.com/interlynk-io/sbomqs)| |CycloneDX,SPDX| |CycloneDX,SPDX| | | | |CycloneDX,SPDX|
 |Interlynk [SBOM Grep](https://github.com/interlynk-io/sbomgr)| |CycloneDX,SPDX||CycloneDX,SPDX|||||CycloneDX,SPDX|
