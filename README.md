@@ -115,6 +115,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [bomber](https://github.com/devops-kung-fu/bomber) - bomber is an application that scans SBoMs for security vulnerabilities.
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker) - Check SPDX SBOM for NTIA minimum elements
 - [sbom-scorecard](https://github.com/eBay/sbom-scorecard) - Generate a score for your sbom to understand if it will actually be useful.
+- [parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services
 
 ## Articles and Blogs
 
