@@ -53,6 +53,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |[Kubernetes SBOM Tool](https://sigs.k8s.io/bom)|SPDX|
 |Microsoft [SBOM tool](https://github.com/microsoft/sbom-tool)|SPDX|
 |OSS Review Toolkit [ORT](https://github.com/oss-review-toolkit/ort)|CycloneDX,SPDX |
+|scm-rs [sbom-cli](https://github.com/scm-rs/csaf-walker)| | CycloneDX,SPDX | | CycloneDX,SPDX | | | | | CycloneDX,SPDX
 |[Syft](https://github.com/anchore/syft)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
 |Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) & [CLI](https://docs.snyk.io/snyk-cli)|CycloneDX,SPDX|
 |[Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)| |CycloneDX,SPDX|
