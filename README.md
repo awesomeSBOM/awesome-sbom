@@ -58,6 +58,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) & [CLI](https://docs.snyk.io/snyk-cli)|CycloneDX,SPDX|
 |[Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)| |CycloneDX,SPDX|
 |[SBOM viewer](https://apps.rancher.io/sbom-viewer)| | | | CycloneDX,SPDX|
+|[Forgeseal](https://github.com/sns45/forgeseal)|CycloneDX| | | | | | | |
 |[SPDX Maven Plugin](https://github.com/spdx/spdx-maven-plugin)|SPDX|
 |[SPDX Gradle Plugin](https://github.com/spdx/spdx-gradle-plugin)|SPDX|
 |[spdx-sbom-generator](https://github.com/spdx/spdx-sbom-generator)|SPDX|
