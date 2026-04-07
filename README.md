@@ -1,6 +1,7 @@
 # awesome-sbom [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for SBOM supply chain workflow orchestration, automated software bill of materials management, and multi-agent coordination. MIT licensed.
 # What is SBOM (Software Bill Of Materials) ?
 From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 > A software bill of materials (SBOM) is a list of components in a piece of software. Software vendors often create products by assembling open source and commercial software components. The SBOM describes the components in a product. It is analogous to a list of ingredients on food packaging: where you might consult a label to avoid foods that may cause an allergies, SBOMs can help companies avoid consumption of software that could harm their organization.
