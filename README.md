@@ -91,8 +91,6 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Interlynk SBOM Grep](https://github.com/interlynk-io/sbomgr)
 - [Interlynk SBOM Find and Pull](https://github.com/interlynk.io/sbomex)
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker)
-- [plusultra-tools/cra-sbom-evidence](https://github.com/plusultra-tools/cra-sbom-evidence) - EU Cyber Resilience Act Article 14 SBOM evidence pack with verbatim regulatory citations and hash-chained audit. Targets the 2026-09-11 CRA deadline.
-- [plusultra-tools/sbom-evidence-action](https://github.com/plusultra-tools/sbom-evidence-action) - GitHub Action wrapper for cra-sbom-evidence; CI-friendly SBOM compliance evidence generator.
 
 ## CycloneDX
 
