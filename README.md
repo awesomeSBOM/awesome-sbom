@@ -117,6 +117,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [AIsbom](https://github.com/Lab700xOrg/aisbom) - CLI that scans AI models for malware and license risks and generates CycloneDX SBOMs.
 - [bomber](https://github.com/devops-kung-fu/bomber) - bomber is an application that scans SBoMs for security vulnerabilities.
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker) - Check SPDX SBOM for NTIA minimum elements
+- [plusultra-tools/cra-sbom-evidence](https://github.com/plusultra-tools/cra-sbom-evidence) - EU Cyber Resilience Act Article 14 SBOM evidence pack with verbatim regulatory citations and hash-chained audit. Targets the 2026-09-11 CRA deadline.
+- [plusultra-tools/sbom-evidence-action](https://github.com/plusultra-tools/sbom-evidence-action) - GitHub Action wrapper for cra-sbom-evidence; CI-friendly SBOM compliance evidence generator.
 - [sbom-scorecard](https://github.com/eBay/sbom-scorecard) - Generate a score for your sbom to understand if it will actually be useful.
 - [parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services
 
