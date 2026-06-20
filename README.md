@@ -92,6 +92,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Interlynk SBOM Grep](https://github.com/interlynk-io/sbomgr)
 - [Interlynk SBOM Find and Pull](https://github.com/interlynk.io/sbomex)
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker)
+- [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk) - Python SDK (Apache-2.0) that emits CycloneDX ML BOM for machine-learning models (model provenance, datasets, hyperparameters, metrics) as a byproduct of training, alongside NIST OSCAL Assessment Results.
 
 ## CycloneDX
 
