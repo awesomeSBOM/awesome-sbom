@@ -59,6 +59,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) & [CLI](https://docs.snyk.io/snyk-cli)|CycloneDX,SPDX|
 |[Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)| |CycloneDX,SPDX|
 |[SBOM viewer](https://apps.rancher.io/sbom-viewer)| | | | CycloneDX,SPDX|
+| [sbomlyze](https://github.com/rezmoss/sbomlyze)| | | | Syft,CycloneDX,SPDX|
 |[SPDX Maven Plugin](https://github.com/spdx/spdx-maven-plugin)|SPDX|
 |[SPDX Gradle Plugin](https://github.com/spdx/spdx-gradle-plugin)|SPDX|
 |[spdx-sbom-generator](https://github.com/spdx/spdx-sbom-generator)|SPDX|
@@ -92,6 +93,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Interlynk SBOM Grep](https://github.com/interlynk-io/sbomgr)
 - [Interlynk SBOM Find and Pull](https://github.com/interlynk.io/sbomex)
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker)
+- [SBOMlyze] (https://github.com/rezmoss/sbomlyze)
 
 ## CycloneDX
 
