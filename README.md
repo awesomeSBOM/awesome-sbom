@@ -119,6 +119,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker) - Check SPDX SBOM for NTIA minimum elements
 - [sbom-scorecard](https://github.com/eBay/sbom-scorecard) - Generate a score for your sbom to understand if it will actually be useful.
 - [parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services
+- [KernelScan Dependency-Track Plugin](https://github.com/kernelscan/kernelscan-dt-plugin) - Config-aware Linux-kernel CVE analyzer for Dependency-Track v5 that reports only the CVEs reachable in a kernel's running .config and emits CycloneDX VEX verdicts.
+- [KernelScan VEX Sync](https://github.com/kernelscan/kernelscan-dt-vex-sync) - Pushes KernelScan's config-aware not_affected/exploitable VEX verdicts into matching Dependency-Track projects.
 
 ## Articles and Blogs
 
