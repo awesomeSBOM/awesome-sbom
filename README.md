@@ -52,6 +52,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |Interlynk [SBOM Find & Pull](https://github.com/interlynk-io/sbomex)| || |CycloneDX,SPDX| | | | |CycloneDX,SPDX|
 |Google [osv-scanner](https://github.com/google/osv-scanner)| |CycloneDX,SPDX|
 |[Kubernetes SBOM Tool](https://sigs.k8s.io/bom)|SPDX|
+|Think Ahead [Kunnus Scanner](https://kunnus.tech/scanner)|CycloneDX,SPDX|
 |Microsoft [SBOM tool](https://github.com/microsoft/sbom-tool)|SPDX|
 |OSS Review Toolkit [ORT](https://github.com/oss-review-toolkit/ort)|CycloneDX,SPDX |
 |scm-rs [sbom-cli](https://github.com/scm-rs/csaf-walker)| | CycloneDX,SPDX | | CycloneDX,SPDX | | | | | CycloneDX,SPDX
@@ -83,6 +84,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Kubernetes SBOM Tool](https://sigs.k8s.io/bom)
 - [Aqua Trivy](https://github.com/aquasecurity/trivy)
 - [Google osv-scanner](https://github.com/google/osv-scanner)
+- [think-ahead-technologies/kunnus-scanner](https://github.com/think-ahead-technologies/kunnus-scanner)
 - [bomber](https://github.com/devops-kung-fu/bomber)
   - [Snyk provider](https://github.com/devops-kung-fu/bomber/tree/main/providers/snyk)
 - Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) and [CLI](https://docs.snyk.io/snyk-cli)
