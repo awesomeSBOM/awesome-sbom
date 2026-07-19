@@ -58,6 +58,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |[Syft](https://github.com/anchore/syft)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
 |Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) & [CLI](https://docs.snyk.io/snyk-cli)|CycloneDX,SPDX|
 |[Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)| |CycloneDX,SPDX|
+|[SBOM Lens](https://github.com/EverBright-IT/SBOM-Lens)| |CycloneDX,SPDX| |CycloneDX,SPDX|CycloneDX,SPDX| | | | |
 |[SBOM viewer](https://apps.rancher.io/sbom-viewer)| | | | CycloneDX,SPDX|
 |[SPDX Maven Plugin](https://github.com/spdx/spdx-maven-plugin)|SPDX|
 |[SPDX Gradle Plugin](https://github.com/spdx/spdx-gradle-plugin)|SPDX|
@@ -111,6 +112,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 ## Community Repositories
 
 - [SBOM-Operator for Kubernetes](https://github.com/ckotzbauer/sbom-operator)
+- [SBOM Lens](https://github.com/EverBright-IT/SBOM-Lens) - Browser-based SBOM viewer that resolves multi-document cascades (SPDX 2.x/3.0.x, CycloneDX BOM-Links), with VEX overlay and delivery verification. Fully client-side.
 
 ### Security Tools
 
