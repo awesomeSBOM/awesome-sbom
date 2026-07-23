@@ -119,6 +119,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker) - Check SPDX SBOM for NTIA minimum elements
 - [sbom-scorecard](https://github.com/eBay/sbom-scorecard) - Generate a score for your sbom to understand if it will actually be useful.
 - [parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services
+- [pqc-tools](https://github.com/quantakrypto/pqc-tools) - Generates a CycloneDX CBOM (cryptographic bill of materials) from source code, flagging quantum-vulnerable cryptography and giving NIST post-quantum migration guidance.
 
 ## Articles and Blogs
 
