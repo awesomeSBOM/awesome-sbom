@@ -111,6 +111,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 ## Community Repositories
 
 - [SBOM-Operator for Kubernetes](https://github.com/ckotzbauer/sbom-operator)
+- [PR CheckMate](https://github.com/Mybono/pr_checkmate_public) - A CI PR gate that publishes a CycloneDX SBOM alongside an independent VirusTotal scan on every release.
 
 ### Security Tools
 
