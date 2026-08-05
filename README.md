@@ -27,6 +27,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials) - Official Wikipedia Page
 - [NTIA](https://www.ntia.gov/SBOM) - Official National Telecommunications and Information Administration Page
 - [What is an SBOM?](https://www.linuxfoundation.org/blog/what-is-an-sbom/) - The Linux Foundation Article
+-  [What is an SBOM (and how to create one without a DevOps team)](https://nordchecks.com/guides/what-is-an-sbom)
+-  Plain-language guide, including firmware and manual inventories.
 
 ### Tools (and [classification](https://ntia.gov/sites/default/files/publications/ntia_sbom_tooling_taxonomy-2021mar30_0.pdf))
 
