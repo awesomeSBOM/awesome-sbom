@@ -114,6 +114,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 
 ### Security Tools
 
+- [Celmis](https://github.com/Celmis-labs/Celmis) - Self-hosted: audits dependencies deterministically (each ecosystem's own auditor, OSV for the rest) and exports a CycloneDX SBOM plus a manifest of sha256 digests, returned separately from the archive so a recipient checks it without trusting the machine that produced it. Aimed at Article 14 as much as the SBOM article — "what did you know, when did you know it" is a timeline, not a snapshot. AGPL-3.0. A real generated pack, with its published hash: https://celmis-labs.github.io/cra/#refusal
 - [AIsbom](https://github.com/Lab700xOrg/aisbom) - CLI that scans AI models for malware and license risks and generates CycloneDX SBOMs.
 - [bomber](https://github.com/devops-kung-fu/bomber) - bomber is an application that scans SBoMs for security vulnerabilities.
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker) - Check SPDX SBOM for NTIA minimum elements
