@@ -53,6 +53,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |Google [osv-scanner](https://github.com/google/osv-scanner)| |CycloneDX,SPDX|
 |[Kubernetes SBOM Tool](https://sigs.k8s.io/bom)|SPDX|
 |Microsoft [SBOM tool](https://github.com/microsoft/sbom-tool)|SPDX|
+|[OSPulse CLI](https://github.com/Fortitude-Group/ospulse-cli)|CycloneDX,SPDX|CycloneDX,SPDX| | | | | | | |
 |OSS Review Toolkit [ORT](https://github.com/oss-review-toolkit/ort)|CycloneDX,SPDX |
 |scm-rs [sbom-cli](https://github.com/scm-rs/csaf-walker)| | CycloneDX,SPDX | | CycloneDX,SPDX | | | | | CycloneDX,SPDX
 |[Syft](https://github.com/anchore/syft)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
