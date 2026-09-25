@@ -119,6 +119,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker) - Check SPDX SBOM for NTIA minimum elements
 - [sbom-scorecard](https://github.com/eBay/sbom-scorecard) - Generate a score for your sbom to understand if it will actually be useful.
 - [parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services
+- [Sapper](https://github.com/Perruer/sapper) - Builds one dependency graph from the CycloneDX and SPDX SBOMs of all your products and OSV advisories, and reports which products each vulnerability reaches, ranked by CISA KEV and EPSS, with OpenVEX support. Continuation of Minefield.
 
 ## Articles and Blogs
 
