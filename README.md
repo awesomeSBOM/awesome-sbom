@@ -119,6 +119,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker) - Check SPDX SBOM for NTIA minimum elements
 - [sbom-scorecard](https://github.com/eBay/sbom-scorecard) - Generate a score for your sbom to understand if it will actually be useful.
 - [parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services
+- [PQC Readiness Scan](https://github.com/johnInarti/pqc-readiness-action) - GitHub Action that statically scans a repository for quantum-vulnerable cryptography (RSA, ECDSA, ECDH/X25519, Ed25519/Ed448, finite-field Diffie-Hellman, DSA, committed SSH/X.509 key material and manifest dependencies) and writes a CycloneDX 1.6 CBOM, the cryptographic profile of the spec (ECMA-424). Static scan, so not a proof of absence and not a compliance certification.
 
 ## Articles and Blogs
 
