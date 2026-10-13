@@ -110,6 +110,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 
 ## Community Repositories
 
+- [fwsbom](https://github.com/chen-embedded/fwsbom) - CycloneDX SBOM generator for bare-metal and RTOS C firmware (STM32, FreeRTOS, ThreadX, Mbed TLS, lwIP) that uses the linker map to list only components linked into the image.
 - [SBOM-Operator for Kubernetes](https://github.com/ckotzbauer/sbom-operator)
 
 ### Security Tools
