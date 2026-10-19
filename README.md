@@ -67,6 +67,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |[Trivy](https://github.com/aquasecurity/trivy)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
 |[DeepSCA](https://tools.deepbits.com)|CycloneDX|CycloneDX||CyclondeDX||CyclondeDX|||CyclondeDX|
 |[Meta Package Manager](https://github.com/kdeldycke/meta-package-manager#readme)|CycloneDX,SPDX|||||||||
+|[PCA CERVUS](https://pcacybersecurity.com/platform)|SBOM generation|SBOM validation, vulnerability monitoring||||SBOM import|||Ticketing systems|
 
 ### Repositories
 
