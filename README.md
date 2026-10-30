@@ -84,6 +84,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [Aqua Trivy](https://github.com/aquasecurity/trivy)
 - [Google osv-scanner](https://github.com/google/osv-scanner)
 - [bomber](https://github.com/devops-kung-fu/bomber)
+- [OWASP Dependency-Track](https://github.com/DependencyTrack/dependency-track) - Platform that ingests CycloneDX and SPDX SBOMs and continuously tracks the vulnerabilities in their components.
   - [Snyk provider](https://github.com/devops-kung-fu/bomber/tree/main/providers/snyk)
 - Snyk SBOM [API](https://docs.snyk.io/snyk-api-info) and [CLI](https://docs.snyk.io/snyk-cli)
 - [Snyk SBOM Checker](https://snyk.io/code-checker/sbom-security/)
