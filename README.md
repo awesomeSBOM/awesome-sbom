@@ -32,6 +32,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 
 |Tool|Build SBOM|Analyze SBOM|Edit SBOM|View SBOM|Diff SBOM|Import SBOM|Translate SBOM|Merge SBOM|Integrate with Other Tools|
 |----|:--------:|:----------:|:-------:|:-------:|:-------:|:---------:|:------------:|:--------:|:------------------------:|
+|[ai-code-sbom](https://github.com/TrueHorison/ai-code-sbom) | CycloneDX,SPDX | | | | | | | | |
 |[AIsbom](https://github.com/Lab700xOrg/aisbom) | CycloneDX | | | | | | | | |
 |AnthonyHarrison [SBOM4Python](https://pypi.org/project/sbom4python/)|CycloneDX,SPDX |
 |AnthonyHarrison [SBOM4Rust](https://pypi.org/project/sbom4rust/)|CycloneDX,SPDX|
@@ -114,6 +115,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 
 ### Security Tools
 
+- [ai-code-sbom](https://github.com/TrueHorison/ai-code-sbom) - Lists which AI coding tools left commits in a release (from git commit trailers) as CycloneDX or SPDX, and can fail on tools that aren't on an allow-list.
 - [AIsbom](https://github.com/Lab700xOrg/aisbom) - CLI that scans AI models for malware and license risks and generates CycloneDX SBOMs.
 - [bomber](https://github.com/devops-kung-fu/bomber) - bomber is an application that scans SBoMs for security vulnerabilities.
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker) - Check SPDX SBOM for NTIA minimum elements
