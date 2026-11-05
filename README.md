@@ -150,6 +150,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [When will SBOMs finally benefit the federal government’s software supply chain?](https://federalnewsnetwork.com/commentary/2022/10/when-will-sboms-finally-benefit-the-federal-governments-software-supply-chain/)
 - [Are SBOMs good enough for government work?](https://www.chainguard.dev/unchained/are-sboms-good-enough-for-government-work)
 - [Not All SBOMs Are Created Equal](https://www.chainguard.dev/unchained/not-all-sboms-are-created-equal)
+- [SBOM Request Template for Vendors, SaaS and AI Software](https://circuits.fit/tools/sbom-request-pack.html) - Browser worksheet that drafts a vendor email requesting CISA 2026 minimum elements and tracks which fields were returned
 
 ## Videos
 
