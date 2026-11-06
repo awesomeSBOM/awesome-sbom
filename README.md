@@ -62,6 +62,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |[SPDX Maven Plugin](https://github.com/spdx/spdx-maven-plugin)|SPDX|
 |[SPDX Gradle Plugin](https://github.com/spdx/spdx-gradle-plugin)|SPDX|
 |[spdx-sbom-generator](https://github.com/spdx/spdx-sbom-generator)|SPDX|
+|[Stackurity](https://github.com/stackurity/stackurity)|CycloneDX|CycloneDX,SPDX| | | |CycloneDX,SPDX| | |CI, GitHub, GitLab, MCP|
 |[SwiftBOM](https://github.com/CERTCC/SBOM/tree/master/SwiftBOM)|CycloneDX,SPDX,SWID|
 |[Tern](https://github.com/tern-tools/tern)|CycloneDX,SPDX|
 |[Trivy](https://github.com/aquasecurity/trivy)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
@@ -118,6 +119,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [bomber](https://github.com/devops-kung-fu/bomber) - bomber is an application that scans SBoMs for security vulnerabilities.
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker) - Check SPDX SBOM for NTIA minimum elements
 - [sbom-scorecard](https://github.com/eBay/sbom-scorecard) - Generate a score for your sbom to understand if it will actually be useful.
+- [Stackurity](https://github.com/stackurity/stackurity) - Self-hosted software inventory that imports CycloneDX and SPDX SBOMs and VEX, matches components to known vulnerabilities and end-of-life dates, and recommends upgrades.
 - [parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services
 
 ## Articles and Blogs
