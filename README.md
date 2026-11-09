@@ -42,6 +42,9 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |AnthonyHarrison [SBOM2dot](https://pypi.org/project/sbom2dot/)| |CycloneDX,SPDX|CycloneDX,SPDX|
 |AnthonyHarrison [SBOMAudit](https://pypi.org/project/sbomaudit/)| |CycloneDX,SPDX|CycloneDX,SPDX|
 |AnthonyHarrison [SBOM-Manager](https://pypi.org/project/sbom-manager/)| |CycloneDX,SPDX|CycloneDX,SPDX|
+|[ArtefactFlow](https://www.artefactflow.com)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
+|ArtefactFlow [SBOM viewer](https://tools.artefactflow.com/sbom-viewer/)| | | |CycloneDX,SPDX|
+|ArtefactFlow [SBOM diff](https://tools.artefactflow.com/sbom-diff/)| | | | |CycloneDX,SPDX|
 |[bomber](https://github.com/devops-kung-fu/bomber)| |CycloneDX,SPDX| |CycloneDX,SPDX|
 |[CycloneDX Maven Plugin](https://github.com/CycloneDX/cyclonedx-maven-plugin)|CycloneDX|
 |[CycloneDX CLI tool](https://github.com/CycloneDX/cyclonedx-cli)| | |CycloneDX| |CycloneDX| |CycloneDX,SPDX|CycloneDX|
