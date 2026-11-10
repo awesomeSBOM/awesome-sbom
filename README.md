@@ -111,6 +111,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 ## Community Repositories
 
 - [SBOM-Operator for Kubernetes](https://github.com/ckotzbauer/sbom-operator)
+- [shipmark-eu/sbom-action](https://github.com/shipmark-eu/sbom-action) - GitHub Action that builds one CycloneDX 1.6 SBOM for a Flutter, React Native, iOS or Android app from its lockfiles, including the native CocoaPods, Swift Package Manager and Gradle side, and checks components against OSV.dev.
 
 ### Security Tools
 
