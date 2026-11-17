@@ -53,6 +53,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |Google [osv-scanner](https://github.com/google/osv-scanner)| |CycloneDX,SPDX|
 |[Kubernetes SBOM Tool](https://sigs.k8s.io/bom)|SPDX|
 |Microsoft [SBOM tool](https://github.com/microsoft/sbom-tool)|SPDX|
+|[nanobom](https://github.com/AlixANNERAUD/nanobom)| |CycloneDX,SPDX| |CycloneDX,SPDX| | | | |CycloneDX,SPDX|
 |OSS Review Toolkit [ORT](https://github.com/oss-review-toolkit/ort)|CycloneDX,SPDX |
 |scm-rs [sbom-cli](https://github.com/scm-rs/csaf-walker)| | CycloneDX,SPDX | | CycloneDX,SPDX | | | | | CycloneDX,SPDX
 |[Syft](https://github.com/anchore/syft)|CycloneDX,SPDX|CycloneDX,SPDX| |CycloneDX,SPDX|
@@ -119,6 +120,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker) - Check SPDX SBOM for NTIA minimum elements
 - [sbom-scorecard](https://github.com/eBay/sbom-scorecard) - Generate a score for your sbom to understand if it will actually be useful.
 - [parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services
+- [nanobom](https://github.com/AlixANNERAUD/nanobom) - Self-hosted SBOM vulnerability tracker: matches uploaded CycloneDX and SPDX SBOMs against OSV, flags known-exploited vulnerabilities (CISA KEV, EPSS) and fails CI builds on policy.
 
 ## Articles and Blogs
 
