@@ -119,6 +119,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker) - Check SPDX SBOM for NTIA minimum elements
 - [sbom-scorecard](https://github.com/eBay/sbom-scorecard) - Generate a score for your sbom to understand if it will actually be useful.
 - [parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services
+- [Security Watch](https://github.com/ShieldaAI/security-watch) - Self-hosted monitor that matches SBOMs and lockfiles against OSV, GitHub advisories, CISA KEV and security news, and alerts the owner.
 
 ## Articles and Blogs
 
