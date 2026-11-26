@@ -43,6 +43,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 |AnthonyHarrison [SBOMAudit](https://pypi.org/project/sbomaudit/)| |CycloneDX,SPDX|CycloneDX,SPDX|
 |AnthonyHarrison [SBOM-Manager](https://pypi.org/project/sbom-manager/)| |CycloneDX,SPDX|CycloneDX,SPDX|
 |[bomber](https://github.com/devops-kung-fu/bomber)| |CycloneDX,SPDX| |CycloneDX,SPDX|
+|[CRAOps (cra-audit)](https://github.com/devansh2396/cra-audit)|CycloneDX|CycloneDX|||||||CycloneDX|
 |[CycloneDX Maven Plugin](https://github.com/CycloneDX/cyclonedx-maven-plugin)|CycloneDX|
 |[CycloneDX CLI tool](https://github.com/CycloneDX/cyclonedx-cli)| | |CycloneDX| |CycloneDX| |CycloneDX,SPDX|CycloneDX|
 |CycloneDX [cdxgen](https://github.com/CycloneDX/cdxgen)|CycloneDX| | | | | | | |CycloneDX|
@@ -116,6 +117,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Software_bill_of_materials):
 
 - [AIsbom](https://github.com/Lab700xOrg/aisbom) - CLI that scans AI models for malware and license risks and generates CycloneDX SBOMs.
 - [bomber](https://github.com/devops-kung-fu/bomber) - bomber is an application that scans SBoMs for security vulnerabilities.
+- [CRAOps (cra-audit)](https://github.com/devansh2396/cra-audit) - Zero-dependency Node.js CLI and GitHub Action that generates CycloneDX 1.6 SBOMs, CSAF 2.0 VEX advisories, and EU Cyber Resilience Act (CRA) readiness checks with OSV and CISA KEV scanning.
 - [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker) - Check SPDX SBOM for NTIA minimum elements
 - [sbom-scorecard](https://github.com/eBay/sbom-scorecard) - Generate a score for your sbom to understand if it will actually be useful.
 - [parlay](https://github.com/snyk/parlay) - Enrich SBOMs with data from third party services
